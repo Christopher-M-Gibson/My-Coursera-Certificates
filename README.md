@@ -35,7 +35,7 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
     2) Essential Design Principles for Tableau (Completed 3/6/2023)
     3) Visual Analytics with Tableau (Completed 3/17/2023)
     4) Creating Dashboards and Storytelling with Tableau (Completed 3/27/2023)
-    5) Data Visualization with Tableau Project (Completed 4/15/2023)
+    5) Data Visualization with Tableau Project (Completed 4/16/2023)
     
  ## Excel Skills for Data Analytics and Visualization Specialization (Macquarie University)
  #### Status: Complete
