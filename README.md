@@ -30,18 +30,18 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
     5) Applied Social Network Analysis in Python (Completed 3/9/2023)
     
 ## Data Visualization with Tableau Specialization (University of California, Davis)
-#### Status: In Progress
+#### Status: Complete
     1) Fundamentals of Visualization with Tableau (Completed 2/24/2023)
     2) Essential Design Principles for Tableau (Completed 3/6/2023)
     3) Visual Analytics with Tableau (Completed 3/17/2023)
     4) Creating Dashboards and Storytelling with Tableau (Completed 3/27/2023)
-    5) Data Visualization with Tableau Project (In Progress)
+    5) Data Visualization with Tableau Project (Completed 4/15/2023)
     
  ## Excel Skills for Data Analytics and Visualization Specialization (Macquarie University)
- #### Status: In Progress
+ #### Status: Complete
     1) Excel Fundamentals for Data Analysis (Completed 3/20/2023)
     2) Data Visualization in Excel (Completed 4/1/2023)
-    3) Excel Power Tools for Data Analysis (In Progress)
+    3) Excel Power Tools for Data Analysis (4/16/2023)
     
 ## Miscellaneous Standalone Courses
     Math behind Moneyball - University of Houston (Completed 6/25/2020)
