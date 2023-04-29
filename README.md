@@ -45,8 +45,8 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
 
 ## Google Advanced Data Analytics Professional Certificate
 #### Status: In Progress
-    1) Foundations of Data Science (In Progress)
-    2) Get Started with Python (Not Started)
+    1) Foundations of Data Science (Completed 4/26/2023)
+    2) Get Started with Python (In Progress)
     3) Go Beyond the Numbers: Translate Data into Insights (Not Started)
     4) The Power of Statistics (Not Started)
     5) Regression Analysis: Simplify Complex Data Relationships (Not Started)
@@ -55,8 +55,7 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
     
 ## Miscellaneous Standalone Courses
     Math behind Moneyball - University of Houston (Completed 6/25/2020)
-    Microsoft Power Platform Fundamentals - Microsoft (In Progress)
-    Data-Driven Decisions with Power BI - Knowledge Accelerators (In Progress)
+    Data-Driven Decisions with Power BI - Knowledge Accelerators (Completed 4/27/2023)
     
 ## Miscellaneous Guided Projects
     Getting Started with Power BI Desktop (Completed 1/22/2023)
