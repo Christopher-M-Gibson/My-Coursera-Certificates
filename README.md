@@ -46,8 +46,8 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
 ## Google Advanced Data Analytics Professional Certificate
 #### Status: In Progress
     1) Foundations of Data Science (Completed 4/26/2023)
-    2) Get Started with Python (In Progress)
-    3) Go Beyond the Numbers: Translate Data into Insights (Not Started)
+    2) Get Started with Python (Completed 5/3/2023)
+    3) Go Beyond the Numbers: Translate Data into Insights (In Progress)
     4) The Power of Statistics (Not Started)
     5) Regression Analysis: Simplify Complex Data Relationships (Not Started)
     6) The Nuts and Bolts of Machine Learning (Not Started)
