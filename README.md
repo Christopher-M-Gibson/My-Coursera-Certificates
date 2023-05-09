@@ -47,8 +47,8 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
 #### Status: In Progress
     1) Foundations of Data Science (Completed 4/26/2023)
     2) Get Started with Python (Completed 5/3/2023)
-    3) Go Beyond the Numbers: Translate Data into Insights (In Progress)
-    4) The Power of Statistics (Not Started)
+    3) Go Beyond the Numbers: Translate Data into Insights (Completed 5/8/2023)
+    4) The Power of Statistics (In Progress)
     5) Regression Analysis: Simplify Complex Data Relationships (Not Started)
     6) The Nuts and Bolts of Machine Learning (Not Started)
     7) Google Advanced Data Analytics Capstone (Not Started)
@@ -61,7 +61,3 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
     Getting Started with Power BI Desktop (Completed 1/22/2023)
     Power BI for Beginners: Prepping Data for Analysis (Completed 2/19/2023)
     Build Dashboards in Power BI (Completed 2/19/2023)
-    
-  
-
-
