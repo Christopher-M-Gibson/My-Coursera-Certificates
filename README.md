@@ -48,9 +48,9 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
     1) Foundations of Data Science (Completed 4/26/2023)
     2) Get Started with Python (Completed 5/3/2023)
     3) Go Beyond the Numbers: Translate Data into Insights (Completed 5/8/2023)
-    4) The Power of Statistics (In Progress)
-    5) Regression Analysis: Simplify Complex Data Relationships (Not Started)
-    6) The Nuts and Bolts of Machine Learning (Not Started)
+    4) The Power of Statistics (Completed 5/15/2023)
+    5) Regression Analysis: Simplify Complex Data Relationships (Completed 5/21/2023)
+    6) The Nuts and Bolts of Machine Learning (In Progress)
     7) Google Advanced Data Analytics Capstone (Not Started)
     
 ## Miscellaneous Standalone Courses
