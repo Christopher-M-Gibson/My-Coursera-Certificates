@@ -50,8 +50,8 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
     3) Go Beyond the Numbers: Translate Data into Insights (Completed 5/8/2023)
     4) The Power of Statistics (Completed 5/15/2023)
     5) Regression Analysis: Simplify Complex Data Relationships (Completed 5/21/2023)
-    6) The Nuts and Bolts of Machine Learning (In Progress)
-    7) Google Advanced Data Analytics Capstone (Not Started)
+    6) The Nuts and Bolts of Machine Learning (Completed 6/2/2023)
+    7) Google Advanced Data Analytics Capstone (In Progress)
     
 ## Miscellaneous Standalone Courses
     Math behind Moneyball - University of Houston (Completed 6/25/2020)
