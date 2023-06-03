@@ -44,14 +44,14 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
     3) Excel Power Tools for Data Analysis (Completed 4/16/2023)
 
 ## Google Advanced Data Analytics Professional Certificate
-#### Status: In Progress
+#### Status: Complete
     1) Foundations of Data Science (Completed 4/26/2023)
     2) Get Started with Python (Completed 5/3/2023)
     3) Go Beyond the Numbers: Translate Data into Insights (Completed 5/8/2023)
     4) The Power of Statistics (Completed 5/15/2023)
     5) Regression Analysis: Simplify Complex Data Relationships (Completed 5/21/2023)
     6) The Nuts and Bolts of Machine Learning (Completed 6/2/2023)
-    7) Google Advanced Data Analytics Capstone (In Progress)
+    7) Google Advanced Data Analytics Capstone (Completed 6/3/2023)
     
 ## Miscellaneous Standalone Courses
     Math behind Moneyball - University of Houston (Completed 6/25/2020)
