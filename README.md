@@ -56,6 +56,7 @@ A repository detailing all of the Coursera Certificates I have accrued. I have t
 ## Miscellaneous Standalone Courses
     Math behind Moneyball - University of Houston (Completed 6/25/2020)
     Data-Driven Decisions with Power BI - Knowledge Accelerators (Completed 4/27/2023)
+    From Excel to Power BI - Knowledge Accelerators (In Progress)
     
 ## Miscellaneous Guided Projects
     Getting Started with Power BI Desktop (Completed 1/22/2023)
